@@ -9,6 +9,6 @@ public class serviceController {
 
     @RequestMapping("/")
     public String hello() {
-        return  "selamlaraa";
+        return  "selamlaraaa";
     }
 }
